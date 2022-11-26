@@ -56,12 +56,19 @@
     html {
         scroll-behavior: smooth;
     }
+    .titles {
+        margin-bottom: 40px;
+        font-size: 60px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: rgb(7, 6, 6);
+    }
     .title {
         margin-bottom: 40px;
         font-size: 60px;
         font-weight: 600;
         text-transform: uppercase;
-        color: rgb(243, 243, 243);
+        color: rgb(255, 255, 255);
     }
     p {
         margin-bottom: 40px;
